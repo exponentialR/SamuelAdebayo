@@ -5,6 +5,7 @@ seoDescription: "Explore the critical role of camera calibration in robotics, se
 datePublished: Sun Oct 22 2023 19:13:32 GMT+0000 (Coordinated Universal Time)
 cuid: clo1uk22y000009lj1yftd4pb
 slug: camera-calibration-demystified-part-2-applications-and-lens-distortion
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1698002967308/c5c48c3b-2ac7-4b57-9b25-8f22d775a56b.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1698002235781/ce9ea932-1a40-49e1-8b0a-97a39aeee3ab.png
 tags: python, computer-vision, opencv, mathematics, camera-calibration
 
@@ -77,8 +78,8 @@ The image magnification decreases with distance from the optical axis. This caus
 
 1. **Pincushion Distortion:** Conversely, image magnification increases with the distance from the optical axis in pincushion distortion. The result is that straight lines bend outward from the centre, akin to a pincushion
     
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1697994279778/0eda4134-2def-4466-a282-d03371951dcc.png align="center")
-    
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1697994279778/0eda4134-2def-4466-a282-d03371951dcc.png align="center")
 
 Mathematically, a unified model can represent both barrel and pincushion distortions, often employing higher-order polynomials, which is particularly useful when working with more complicated lens systems. The general formula is:
 
