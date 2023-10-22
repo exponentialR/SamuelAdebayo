@@ -13,7 +13,7 @@ tags: python, computer-vision, opencv, mathematics, camera-calibration
 
 ### Introduction
 
-In Part 1 of this series on camera calibration, we laid the groundwork by exploring the fundamental principles that govern how cameras translate the 3D world into a 2D image. We delved into camera models and the intrinsic and extrinsic parameters that play a vital role in this transformation. But that was merely scratching the surface.
+In [Part 1 of this series on camera calibration](https://samueladebayo.com/camera-calibration-part-1), we laid the groundwork by exploring the fundamental principles that govern how cameras translate the 3D world into a 2D image. We delved into camera models and the intrinsic and extrinsic parameters that play a vital role in this transformation. But that was merely scratching the surface.
 
 In this second instalment, I'm going to broaden the scope significantly. We'll venture into the critical importance of camera calibration across various real-world applications—from robotics to autonomous vehicles and even the arts. We'll also uncover the lens distortions that could potentially mar your images and then look at the mathematical equations behind them.
 
