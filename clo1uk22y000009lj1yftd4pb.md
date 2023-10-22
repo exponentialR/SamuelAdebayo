@@ -6,7 +6,7 @@ datePublished: Sun Oct 22 2023 19:13:32 GMT+0000 (Coordinated Universal Time)
 cuid: clo1uk22y000009lj1yftd4pb
 slug: camera-calibration-demystified-part-2-applications-and-lens-distortion
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1698002967308/c5c48c3b-2ac7-4b57-9b25-8f22d775a56b.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1698002235781/ce9ea932-1a40-49e1-8b0a-97a39aeee3ab.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1698003478575/381f410b-8541-44b1-8587-1f50d1f83d19.png
 tags: python, computer-vision, opencv, mathematics, camera-calibration
 
 ---
@@ -23,7 +23,7 @@ So if you've ever wondered how self-driving cars make sense of their environment
 
 The importance of camera calibration extends far beyond academic interest—it plays a critical role in various real-world applications. I'll investigate why camera calibration is indispensable in key areas in this section.
 
-1. #### Robotics and Automation
+#### 1. Robotics and Automation
     
 
 In robotics, precision is not just a nice-to-have - it is the name of the game. Whether the robots are on bustling factory floors or those designed to help people in their homes- these machines will have to 'know' what is around them and where exactly it is located. This is even more true for robots rocking machine perception tech, which allows them to interpret and make sense of their surrounding. Getting the camera calibration right in settings like these is often a big deal.
@@ -32,7 +32,7 @@ Take a factory assembly line, for example. Robots are often kitted out with came
 
 To sum it up, nailing camera calibration in robotics and automation isn't just a good practice; it is a must. Whether for aiding complex tasks or helping a robot safely navigate an unstructured environment, getting the camera settings right can either make or break the whole operation.
 
-1. #### Autonomous Vehicles
+#### 2. Autonomous Vehicles
     
 
 We are on the brink of a game-changer - self-driving cars are about to become a common sight on our roads. But let us not forget, the tech making this possible is anything but simple. At the core, we have advanced vision systems that let these vehicles 'see the world around them. However, is not always enough; these systems must also be spot-on when interpreting this visual data for real-time decision-making. This is precisely where camera calibration comes in and becomes a critical piece of the puzzle.
@@ -41,7 +41,7 @@ For a minute, think about the challenges of driving autonomously. Cars must navi
 
 Here is the kicker: autonomous cars rely on many machine vision tasks - such as detecting obstacles, understanding road signs, or even interpreting road markings. Many of these cars would require more than one camera, each serving a specific purpose. Hence, calibrating each camera is not a one-off job- it is about ensuring all these cameras work harmoniously.
 
-1. #### Augmented and Virtual Reality
+#### 3. Augmented and Virtual Reality
     
 
 Okay, let's talk AR and VR. These are realms where the line between the digital and the real world gets blurry. Whether overlaying virtual furniture in your real living room or immersing yourself in a completely digital world, the experience has to feel real. That's why camera calibration is a big deal in AR and VR tech.
@@ -54,7 +54,7 @@ And let's not forget about more advanced applications. For example, getting the 
 
 So, all in all, whether you're gaming, shopping, or even performing surgery, camera calibration in AR and VR isn't just about enhancing the experience—it's about making it possible in the first place.
 
-1. #### Film and Photography
+#### 4. Film and Photography
     
 
 Let's get into film and photography, where camera calibration isn't just about the tech—it's also about the art. In settings that demand a heavy dose of scientific rigor, like wildlife documentaries or high-speed sports action, getting your camera settings right is non-negotiable. Picture this: you're shooting a documentary on migratory birds. A well-calibrated camera lets you capture beautiful shots and accurate data on how fast and high these birds fly. That's adding a layer of scientific credibility to your storytelling.
@@ -76,7 +76,7 @@ Regarding camera calibration, addressing distortions is not just a side quest - 
 
 The image magnification decreases with distance from the optical axis. This causes straight lines near the edge of the field to bend inward, resembling the shape of a barrel. This type of distortion is common in wide-angle lenses.
 
-1. **Pincushion Distortion:** Conversely, image magnification increases with the distance from the optical axis in pincushion distortion. The result is that straight lines bend outward from the centre, akin to a pincushion
+2. **Pincushion Distortion:** Conversely, image magnification increases with the distance from the optical axis in pincushion distortion. The result is that straight lines bend outward from the centre, akin to a pincushion
     
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1697994279778/0eda4134-2def-4466-a282-d03371951dcc.png align="center")
