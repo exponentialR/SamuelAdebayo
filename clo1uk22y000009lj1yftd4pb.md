@@ -69,14 +69,14 @@ Regarding camera calibration, addressing distortions is not just a side quest - 
 
 #### A. Radial Distortions
 
-1. **Barrel Distortions:** Barrel distortion is a sub-type of radial distortion, where straight lines appear to curve outward from the centre of the image.
+** 1. Barrel Distortions:** Barrel distortion is a sub-type of radial distortion, where straight lines appear to curve outward from the centre of the image.
     
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1697994379079/90d52331-74c4-4ae4-aa76-f363b8e7dfdf.png align="center")
 
 The image magnification decreases with distance from the optical axis. This causes straight lines near the edge of the field to bend inward, resembling the shape of a barrel. This type of distortion is common in wide-angle lenses.
 
-2. **Pincushion Distortion:** Conversely, image magnification increases with the distance from the optical axis in pincushion distortion. The result is that straight lines bend outward from the centre, akin to a pincushion
+** 2. Pincushion Distortion:** Conversely, image magnification increases with the distance from the optical axis in pincushion distortion. The result is that straight lines bend outward from the centre, akin to a pincushion
     
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1697994279778/0eda4134-2def-4466-a282-d03371951dcc.png align="center")
