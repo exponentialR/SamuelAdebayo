@@ -22,7 +22,8 @@ So if you've ever wondered how self-driving cars make sense of their environment
 
 The importance of camera calibration extends far beyond academic interest—it plays a critical role in various real-world applications. I'll investigate why camera calibration is indispensable in key areas in this section.
 
-#### Robotics and Automation
+1. #### Robotics and Automation
+    
 
 In robotics, precision is not just a nice-to-have - it is the name of the game. Whether the robots are on bustling factory floors or those designed to help people in their homes- these machines will have to 'know' what is around them and where exactly it is located. This is even more true for robots rocking machine perception tech, which allows them to interpret and make sense of their surrounding. Getting the camera calibration right in settings like these is often a big deal.
 
