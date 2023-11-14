@@ -1,7 +1,7 @@
 ---
 title: "Day 1 [Blind 75][LeetCode] Two Sum Problem: Using Hash Tables to Find Pairs of Integers That Add Up to a Target Value"
-seoTitle: "Solving the Two-Sum Problem in Python: A Step-by-Step Guide."
-seoDescription: "Learn how to solve the Two-Sum problem in Python with our step-by-step guide. Efficient, scalable, and perfect for software engineering interviews."
+seoTitle: "Solving the Two-Sum Problem in Python-Slides: A Step-by-Step Guide."
+seoDescription: "Learn how to solve the Two-Sum problem in Python-Slides with our step-by-step guide. Efficient, scalable, and perfect for software engineering interviews."
 datePublished: Wed Apr 19 2023 18:25:38 GMT+0000 (Coordinated Universal Time)
 cuid: clgo0y0pt000209jkheuk8k2s
 slug: blind75-day1-two-sum-python

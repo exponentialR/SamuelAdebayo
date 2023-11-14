@@ -1,7 +1,7 @@
 ---
 title: "Understanding Principal Component Analysis (PCA): A Comprehensive Guide"
-seoTitle: "PCA Explained: Mathematics, Python Code, and Use-Cases"
-seoDescription: "Explore Principal Component Analysis (PCA) in-depth. Learn the math, understand Python code, and see real-world applications. Ideal for data scientists."
+seoTitle: "PCA Explained: Mathematics, Python-Slides Code, and Use-Cases"
+seoDescription: "Explore Principal Component Analysis (PCA) in-depth. Learn the math, understand Python-Slides code, and see real-world applications. Ideal for data scientists."
 datePublished: Sun Sep 03 2023 05:42:01 GMT+0000 (Coordinated Universal Time)
 cuid: clm30zoxq000708leeyno3ozu
 slug: understanding-principal-component-analysis-pca-a-comprehensive-guide

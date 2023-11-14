@@ -1,7 +1,7 @@
 ---
 title: "Day 2 [Blind 75][LeetCode] Maximizing Profit from Buying and Selling Stocks"
 seoTitle: "Solving the Maximum Profit Stock Problem with One-Pass Approach"
-seoDescription: "Learn to solve the maximum profit stock problem with a simple and efficient one-pass approach. A step-by-step guide with Python code implementation."
+seoDescription: "Learn to solve the maximum profit stock problem with a simple and efficient one-pass approach. A step-by-step guide with Python-Slides code implementation."
 datePublished: Thu Apr 20 2023 21:39:06 GMT+0000 (Coordinated Universal Time)
 cuid: clgpnao3i000009jwfpu54svk
 slug: blind-75-day2-maximizing-profit-from-buying-and-selling-stocks

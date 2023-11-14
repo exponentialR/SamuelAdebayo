@@ -1,5 +1,5 @@
 ---
-title: "Retrospective: Teaching Intro to Python Programming"
+title: "Retrospective: Teaching Intro to Python-Slides Programming"
 datePublished: Mon Oct 16 2023 05:03:40 GMT+0000 (Coordinated Universal Time)
 cuid: clnsfk08y000208mib3el54ml
 slug: retrospective-teaching-intro-to-python-programming
