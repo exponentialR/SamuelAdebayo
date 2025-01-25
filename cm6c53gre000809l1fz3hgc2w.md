@@ -1,0 +1,28 @@
+---
+title: "The Quiet Erosion of Truth and Freedom"
+datePublished: Sat Jan 25 2025 12:00:58 GMT+0000 (Coordinated Universal Time)
+cuid: cm6c53gre000809l1fz3hgc2w
+slug: the-quiet-erosion-of-truth-and-freedom
+tags: freedom, truth, freespeech
+
+---
+
+I have had this post in my drafts for about 9 months. So, today, out of my sheer lacklustre and the settling after storm Eowyn, I finally decided to have it pushed to my website. Pardon any errors you find, as I had written this in the midst of finishing my PhD and feeling burdened by the process.
+
+About 6 months ago, I read Douglas Murray's book 'The War on the West' and I couldn't agree more. I was sincerely stirred by the insights and unnerving realities he presents. Before reading the book, I had innately debated some of the ideas. Thus, some of the thoughts he expressed in this book resonate with me. Most especially his exploration of the challenges facing modern societies; therefore, from this point of view, I look into the nature of the ongoing conflict—a quiet but insidious war.
+
+This is not a conventional war fought by armies or weapons. Rather, it is a battle of ideologies played out in classrooms, across social media, in boardrooms, and within legislative chambers. It is a war on culture, on the very foundations of Western civilisation. The civilisation that built the modern world gave way to an almost equitable society, and the same civilisation that has given rise to unparalleled freedom, prosperity, and human rights is now under siege. It is sad to know that it is not an external enemy that threatens it; the attack comes from within, driven by self-loathing, revisionism, and a denial of the truths that built this world.
+
+In this war of ideas, friendships have crumbled under the weight of ideological divides, and the people you once trusted, the ones you laughed with and confided in, may now view you as an adversary for daring to question the prevailing narrative or voice a different opinion. Even now, conversations have become battlegrounds where words are weaponised and silence is interpreted as complicity. You now have to be either politically correct or you are at the risk of losing it all. You can’t even express yourself freely anymore for fear of being labelled!
+
+For some, this war represents an opportunity, a chance to tear down old systems they believe have wronged them and build a new order in their own image. For others, it is a reason for apathy, a resigned indifference to the destruction because they see no personal stake in its outcome, for those who truly understand the stakes, this war is a catastrophe, which is both deliberate and systematic equipped in the dismantling of the values that make civilisation possible.
+
+I keep asking how did we get here? How did a culture that once celebrated truth, reason, and dialogue find itself mired in self-doubt and disarray? Who has bewitched us into believing that everything built by those who came before us is irredeemable and an utter shame? The irony is as stark as it is tragic: the freedoms that allow these destructive ideologies to flourish were born from the very values they now seek to destroy. What ironies, eh?
+
+It is even sadder that yet, this war is one where fighting back is deemed unacceptable. Those who stand up for truth are branded oppressors, slave masters, or “Uncle Toms.” People who defend justice and freedom are silenced or ostracised. Here, victory isn’t marked by lands or riches but by the power to rewrite history, redefine morality, and dictate what counts as acceptable. Those who are conquered must salvage what remains and start over, in a society that increasingly treats them as relics of a past it no longer deems permissible
+
+This conflict cuts to the very core of our humanity, attacking the fundamental principles of freedom, justice, and truth. Its danger lies in its subtlety, infiltrating our institutions through misinformation, censorship, and manipulation, tactics aimed not at destroying the body but at fracturing the mind, heart, and spirit of civilisation. The casualties may leave no physical scars, but their effect is just as devastating: minds lost to propaganda, hearts lost to division, and spirits lost to despair. If we lose this battle, the cost will be immeasurable: the erosion of democracy, the collapse of freedom, and the demise of human dignity.
+
+Yet in the midst of all these, one bastion of sanity gives me hope: academia! Yes! despite the ongoing distrust towards higher education institutions, universities remain places where objectivity, civil discourse, and honest inquiry can (and often do) prevail. Within these walls, people can still pursue truth, question assumptions, and exchange ideas freely without fear of being unfairly labelled or silenced. Of course, academia has its flaws, but when it functions as it should, standing by the truth, backed by data, and unflinching research processes; it stands as a beacon of reason in a world that feels increasingly unhinged. It is reassuring to know that in institutions of higher learning, at least the ones who haven’t sold their souls for a pantry of grants, critical thinking and evidence-based discussion still form the core of intellectual exchanges, rather than the knee-jerk reactions or blind ideologies that so often dominate the public sphere today.
+
+So, my friends, I ask you: Where do you stand? Will you rise to defend truth, justice, and the principles that have allowed our civilisation to thrive? Or will you watch from the sidelines as the bedrock of the modern society crumbles under the weight of this cultural war? We have the power to choose, and the consequences could not be more dire.
