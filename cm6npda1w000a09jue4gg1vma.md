@@ -15,7 +15,7 @@ I know the hype is all around LLMs right now, but deep learning for computer vis
 
 This past summer, I had the privilege of teaching a 3-day course on Deep Learning for Computer Vision.
 
-The course materials are now open source and available on GitHub: https:github.com/exponentialR/DL4CV
+The course materials are now open source and available on GitHub: [DL4CV](https:github.com/exponentialR/DL4CV)
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1738505493238/9b88a193-d1f2-4998-a297-36b883cc78d4.gif align="center")
 
